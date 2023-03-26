@@ -76,4 +76,4 @@ return (destination - start) * 264
 
 
 
-// console.log(calculatesFarePrice(3,4))
+
